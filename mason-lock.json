@@ -1,0 +1,13 @@
+{
+    "bricks": {
+        "api": {
+            "path": ".bricks/api"
+        },
+        "dto": {
+            "path": ".bricks/dto"
+        },
+        "feature": {
+            "path": ".bricks/feature"
+        }
+    }
+}

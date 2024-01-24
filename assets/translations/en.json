@@ -1,0 +1,13 @@
+{
+    "main": {
+        "title": "Currency Rates App",
+        "text_field": {
+            "duration": {
+                "title": "Refresh duration in seconds"
+            }
+        }
+    },
+    "details": {
+        "title": "Currency {flag}"
+    }
+}
